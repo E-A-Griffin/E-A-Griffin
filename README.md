@@ -13,9 +13,8 @@ English, some Spanish
 
 # Education 👩🏻‍🎓
 Bachelor's in Computer Science with a minor in Mathematics from the University of South Florida
-Anticipated Master's in Computer Science from the University of South Florida (Spring 2022)
 
-Working on my Master's in Computer Science
+Anticipated Master's in Computer Science from the University of South Florida (Spring 2022)
 <!--
 **E-A-Griffin/E-A-Griffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
