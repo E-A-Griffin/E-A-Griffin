@@ -6,13 +6,14 @@ Functional programming, emacs, lisp
 Microtonal music, gaming, plants, New Mexico Whiptail Lizards
 # Languages 🗣️
 ## Programming 🤖
-Clojure/Clojurescript, C, C++, Java, Python
+Clojure/Clojurescript, C, C++, Ruby, Java, Python
 
 ## Regular 💬
 English, some Spanish
 
 # Education 👩🏻‍🎓
-Bachelor's in Computer Science with a minor in Mathematics
+Bachelor's in Computer Science with a minor in Mathematics from the University of South Florida
+Anticipated Master's in Computer Science from the University of South Florida (Spring 2022)
 
 Working on my Master's in Computer Science
 <!--
