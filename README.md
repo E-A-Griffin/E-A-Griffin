@@ -1,12 +1,12 @@
 # Interested in 🌱
 ## Computer Science 👩‍💻
-Functional programming, emacs, lisp
+Functional programming, emacs, lisp, compilers, interpreters, programming languages
 
 ## General 🐖
 Microtonal music, gaming, plants, New Mexico Whiptail Lizards
 # Languages 🗣️
 ## Programming 🤖
-Clojure/Clojurescript, C, C++, Ruby, Java, Python
+Clojure/ClojureScript, C, C++, Ruby, Java, Python, JavaScript
 
 ## Regular 💬
 English, some Spanish
@@ -14,7 +14,10 @@ English, some Spanish
 # Education 👩🏻‍🎓
 Bachelor's in Computer Science with a minor in Mathematics from the University of South Florida
 
-Anticipated Master's in Computer Science from the University of South Florida (Spring 2022)
+Master's in Computer Science from the University of South Florida
+
+# Contact 📫
+You can reach me by email at emma.audrey.g@gmail.com
 <!--
 **E-A-Griffin/E-A-Griffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
