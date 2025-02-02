@@ -3,7 +3,7 @@
 Functional programming, emacs, lisp, compilers, interpreters, programming languages
 
 ## General 🐖
-Microtonal music, gaming, plants, New Mexico Whiptail Lizards
+Public transit, microtonal music, gaming, plants, New Mexico Whiptail Lizards
 # Languages 🗣️
 ## Programming 🤖
 Clojure/ClojureScript/ClojureCLR, C, C++, Ruby, Java, Python, JavaScript
