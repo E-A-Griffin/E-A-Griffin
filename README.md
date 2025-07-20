@@ -6,7 +6,7 @@ Functional programming, emacs, lisp, compilers, interpreters, programming langua
 Public transit, microtonal music, gaming, plants, New Mexico Whiptail Lizards
 # Languages 🗣️
 ## Programming 🤖
-Clojure/ClojureScript/ClojureCLR, C, C++, Ruby, Java, Python, JavaScript
+Clojure/ClojureScript/ClojureCLR, C, C++, Ruby, Java, Python, JavaScript, TypeScript
 
 ## Regular 💬
 English, some Spanish
