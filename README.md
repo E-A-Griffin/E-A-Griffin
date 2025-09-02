@@ -6,7 +6,7 @@ Functional programming, emacs, lisp, compilers, interpreters, programming langua
 Public transit, microtonal music, gaming, plants, New Mexico Whiptail Lizards
 # Languages 🗣️
 ## Programming 🤖
-Clojure/ClojureScript/ClojureCLR/jank(Clojure with C++ interop), Haskell, C, C++, Ruby, Java, Python, JavaScript, TypeScript
+![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) Clojure/ClojureScript/ClojureCLR/jank(Clojure with C++ interop), ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) Haskell, ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) C, C++, Ruby, Java, Python, JavaScript, TypeScript
 
 ## Regular 💬
 English, some Spanish
