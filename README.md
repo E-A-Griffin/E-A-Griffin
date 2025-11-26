@@ -26,6 +26,8 @@ Master's in Computer Science from the University of South Florida
 
 # Contact 📫
 You can reach me by email at emma.audrey.g@gmail.com
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=E-A-Griffin&theme=jolly)
 <!--
 **E-A-Griffin/E-A-Griffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
